@@ -2,7 +2,7 @@
 
 ## Intro
 
-   For the design of the prototype given, several groups are settled as Location sensing Group & Dismissal Group, Data Analysis Group, Visualization Group, System Integration Group and Human Interaction Group. And the platform is decided as Raspberry Pi.
+   For the design of the prototype given, several groups are settled, and the platform is decided as Raspberry Pi.
 
 ### Rpcs-Jan2018.pdf
     The Requirement given
