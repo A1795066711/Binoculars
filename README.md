@@ -13,4 +13,4 @@
 ### item matrix.docx
     Items used for the design
 ### stream.png
-    Information streams of the system
+    Streams of the information inside the system
