@@ -12,3 +12,5 @@
     Works of System Integration Group and Human Interaction Group respectively
 ### item matrix.docx
     Items used for the design
+### stream.png
+    Information streams of the system
