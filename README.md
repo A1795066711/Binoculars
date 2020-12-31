@@ -8,7 +8,7 @@
     The Requirement given
 
 ### Magpie.pdf
-    The Final Ducumentation of the Design. And also it is the final report.
+    The Final Ducumentation of the Design. And it is the final report.
 
 ### the Overview.pdf
     The Overview of the team work
