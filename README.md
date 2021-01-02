@@ -4,9 +4,6 @@
 
    For the design of the prototype given, several groups are settled, and the platform is decided as Raspberry Pi.
 
-### Rpcs-Jan2018.pdf
-    The Requirement given
-
 ### Magpie.pdf
     The Final Ducumentation of the Design. And it is the final report.
 
