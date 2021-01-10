@@ -1,4 +1,4 @@
-# Repository of the final design ( named Magpie ）for the Rapid Prototype Design
+# Repository of the final design ( named Binoculars ）for the Rapid Prototype Design
 
 ## Intro
 
